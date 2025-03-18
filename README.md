@@ -45,4 +45,4 @@ You can contact me if you would like to contribute!
 
 ## Questions
 
-If you have any questions regarding this project you can email me at alyssarichards3@gmail.com or visit my GitHub: [alrich22](https://github.com/alrich22/CI-CD-Setup)
+If you have any questions regarding this project you can email me at alyssarichards3@gmail.com or visit my GitHub: [alrich22](https://github.com/alrich22)
