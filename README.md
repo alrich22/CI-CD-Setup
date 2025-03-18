@@ -20,15 +20,6 @@ This project implements a Continuous Integration and Continuous Deployment (CI/C
 
 [GitHub Repository](https://github.com/alrich22/CI-CD-Setup)
 
-## Preview
-
-![Pull Request GitHub Actions](./assets/CICDtestss.PNG)
-
-![Pull Request GitHub Actions](./assets/CICDdeploytestss.PNG)
-
-![Pull Request GitHub Actions](./assets/CICDPRfeaturetodevss.PNG)
-
-![Pull Request GitHub Actions](./assets/CICDPRdevtomainss.PNG)
 
 ## Deployed Webpage
 
